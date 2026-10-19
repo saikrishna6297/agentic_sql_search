@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Local SQLite databases
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
